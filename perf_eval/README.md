@@ -1,0 +1,1 @@
+The document is designed to illustrate the high-level framework behind the performance evaluation process without exposing internal formulas, proprietary scoring rules, or confidential datasets. This workflow supports consistent, transparent, and data-driven assessment practices within the organization.
