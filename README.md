@@ -6,7 +6,7 @@ Throughout my time at Qoar, my role involved a combination of project management
 The materials included in this repository are:
 * Web Scraping Scripts (generalized and redacted)
 * Sentiment Analysis Experiments
-* A Sensor-Redacted Meta Reporting Dashboard
-* A KPI Flowchart demonstrating the performance evaluation structure
+* Meta Reporting Dashboard flow
+* A KPI Flowchart 
 
 All content has been sanitized to ensure no proprietary logic, internal data, or sensitive workflows are disclosed. This repository is intended to highlight my technical contributions while maintaining full compliance with Qoar’s confidentiality policies.
