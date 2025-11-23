@@ -1,0 +1,1 @@
+This folder contains documentation in PDF format outlining the automated Meta reporting workflow used to streamline the process of generating marketing performance reports. The flow describes how data is retrieved, processed, and transformed into standardized report outputs, ensuring faster and more consistent delivery of insights.
