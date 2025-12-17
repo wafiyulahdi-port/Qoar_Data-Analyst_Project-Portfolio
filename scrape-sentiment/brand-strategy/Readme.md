@@ -1,0 +1,1 @@
+The data that has been taken using the scrape method is processed with sentiment and wordcloud and then entered into this brand strategy determination template which will then be discussed internally and with the client until the desired strategy is achieved.
